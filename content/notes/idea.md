@@ -1,5 +1,5 @@
 ---
-title: "Showcase"
+title: "Idea"
 ---
 
 Want to see what Quartz can do? Here are some cool community gardens :)
