@@ -7,4 +7,4 @@ title: 🪴 Digital Garden
 My digital garden
 
 ## Start Here
- - [Indea](/notes/idea)
+ - [Idea](/notes/idea)
