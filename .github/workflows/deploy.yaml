@@ -1,9 +1,14 @@
-name: Deploy to GitHub Pages
+name: deploy
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - hugo
+  watch:
+    types: [started]
+  # schedule:
+  #   - cron: "0 */2 * * *"
 
 jobs:
   deploy:
@@ -11,8 +16,19 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Pull & update submodules recursively
+        run: |
+          git submodule update --init --recursive
+          git submodule update --recursive --remote
+      - name: Commit
+        run: |
+          git config user.email "potbye@users.noreply.github.com"
+          git config user.name "potbye"
+          git add --all
+          git commit -m "Update submodules" || echo "No changes to commit"
+          git push
       - name: Build Link Index
-        uses: jackyzha0/hugo-obsidian@v2.12
+        uses: jackyzha0/hugo-obsidian@v2.10
         with:
           index: true
           input: content
@@ -22,7 +38,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.96.0'
+          hugo-version: "0.95.0"
           extended: true
 
       - name: Build
@@ -32,6 +48,8 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: "potbye"
+          user_email: "potbye@users.noreply.github.com"
           publish_dir: ./public
-          publish_branch: master  # deploying branch
+          publish_branch: master # deploying branch
           cname: garden.ronnapat.me
