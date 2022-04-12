@@ -4,9 +4,9 @@ title: Diswitch Project
 
 Discord and Twitch Simple bot
 
-## Plan
+## Devlog
 
-Work Plan
+Diswitch Project Devlog
 
 ### 10-11 Apr 2022
 
