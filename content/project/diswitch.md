@@ -4,7 +4,7 @@ title: Diswitch Project
 
 Discord and Twitch Simple bot
 
-### Devlog
+## Devlog
 
 Diswitch Project Devlog
 
@@ -18,3 +18,7 @@ Diswitch Project Devlog
 
 - Add fun command
 - Add twitch command (ex.discord)
+
+### 15 Apr 2022
+
+- Change to typescript
