@@ -84,4 +84,10 @@ title: 🖥 Uses
 - [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
 - [Play Station 4](https://www.playstation.com/th-th/ps4/)
 
+## Previously used
+
+- Google Chrome : Not good as microsoft edge
+- Oppo phone : I buy new phone
+- Yahoo mail : I use gmail
+
 Idea from [garden.narze.live/Uses](https://garden.narze.live/Uses/)
