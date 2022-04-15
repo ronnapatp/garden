@@ -24,7 +24,6 @@ p, ul, text {
 }
 
 .mainTOC {
-  background: var(--lightgray);
   border-radius: 5px;
   padding: 0.75em 1em;
 }
@@ -34,10 +33,6 @@ p, ul, text {
   font-family: Inter;
   color: var(--dark);
   font-weight: 700;
-}
-
-.mainTOC details[open] summary {
-    cursor: zoom-out;
 }
 
 #TableOfContents > ol {
