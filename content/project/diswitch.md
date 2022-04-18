@@ -22,3 +22,8 @@ Diswitch Project Devlog
 ### 15 Apr 2022
 
 - Change to typescript
+
+### 18 Apr 2022
+
+- Add kick command
+- Add ban command
