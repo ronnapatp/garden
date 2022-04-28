@@ -50,7 +50,7 @@ title: 🖥 Uses
 
 ## Application
 
-- Alfred
+- Raycast
 - Lastpass
 - Google Drive
 - Fig
@@ -89,5 +89,6 @@ title: 🖥 Uses
 - Google Chrome : Not good as microsoft edge
 - Oppo phone : I buy new phone
 - Yahoo mail : I use gmail
+- Alfred : I use Raycast
 
 Idea from [garden.narze.live/Uses](https://garden.narze.live/Uses/)
