@@ -30,6 +30,8 @@ Diswitch Project Devlog
 
 ## Feature
 
+Feature that Diswitch will have!
+
 ### Moderation
 
 - Kick
@@ -44,3 +46,21 @@ Diswitch Project Devlog
 - Give role
 - Delete role
 - Create role
+- Change user name
+
+### Fun
+
+- Random number
+- Random word
+- Random joke
+
+### Server
+
+- Server info
+- Server rule
+- Server FAQ
+
+### User
+
+- User info
+- Change my name
