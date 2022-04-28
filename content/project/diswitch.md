@@ -27,3 +27,20 @@ Diswitch Project Devlog
 
 - Add kick command
 - Add ban command
+
+## Feature
+
+### Moderation
+
+- Kick
+- Ban
+- Warn
+- Timeout
+- Unban
+- Lock channel
+- Unlock channel
+- Create channel
+- Delete channel
+- Give role
+- Delete role
+- Create role
