@@ -55,21 +55,21 @@ title: 🖥 Uses
 - Google Drive
 - Fig
 - Chat app
-    - Line - Popular chat app in Thailand
-    - Discord - Chat with voice call for gamers
-    - Signal - Privacy chat app
-    - Telegram - Super privacy chat app
+  - Line - Popular chat app in Thailand
+  - Discord - Chat with voice call for gamers
+  - Signal - Privacy chat app
+  - Telegram - Super privacy chat app
 - Web Browser
-    - Microsoft edge - Browser that better than chrome 
-    - Opera GX - Browser for gamers
-    - Brave - Privacy browser
-    - Firefox - Open source 
+  - Microsoft edge - Browser that better than chrome
+  - Opera GX - Browser for gamers
+  - Brave - Privacy browser
+  - Firefox - Open source
 - Games
-    - Roblox - Fun game
+  - Roblox - Fun game
 - Online call
-    - Zoom 
-    - Google meet - On broswer
-    - Microsoft team
+  - Zoom
+  - Google meet - On broswer
+  - Microsoft team
 
 ## Gadjets
 

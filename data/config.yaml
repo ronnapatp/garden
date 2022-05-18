@@ -1,10 +1,8 @@
 name: Ronnapat
 enableToc: true
 enableLinkPreview: true
-description:
-  Ronnapat Digital Garden
-page_title:
-  "🪴 Digital Garden"
+description: Ronnapat Digital Garden
+page_title: "🪴 Digital Garden"
 links:
   - link_name: Twitter
     link: https://twitter.com/ronnapatp

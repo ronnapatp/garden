@@ -12,6 +12,6 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gard
 
 🔗 Get Started: https://garden.ronnapat.me/
 
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
+![Quartz Example Screenshot](./screenshot.png)_Quartz Example Screenshot_
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
