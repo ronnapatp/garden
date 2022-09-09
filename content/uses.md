@@ -71,7 +71,7 @@ title: 🖥 Uses
   - Google meet - On broswer
   - Microsoft team
 
-## Gadjets
+## Gadgets
 
 - [Macbook M1 air 2020 - Personal/Work](https://www.apple.com/shop/buy-mac/macbook-air/space-gray-apple-m1-chip-with-8-core-cpu-and-8-core-gpu-512gb)
 - [FANTECH MK856 MAXFIT KEYBOARD](https://bit.ly/3vbduxt)
