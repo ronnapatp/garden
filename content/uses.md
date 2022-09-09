@@ -23,7 +23,8 @@ title: 🖥 Uses
 
 - Javascript
 - Typescript
-- Python (Lost)
+- Python 
+- C++
 
 ## Not Coding Languages
 
@@ -86,9 +87,9 @@ title: 🖥 Uses
 
 ## Previously used
 
-- Google Chrome : Not good as microsoft edge
-- Oppo phone : I buy new phone
-- Yahoo mail : I use gmail
-- Alfred : I use Raycast
+- Google Chrome : Not good as Microsoft edge
+- Oppo phone : I bought new phone
+- Yahoo mail : I use gmail instead
+- Alfred : I use Raycast instead
 
 Idea from [garden.narze.live/Uses](https://garden.narze.live/Uses/)
