@@ -1,6 +1,8 @@
 {{ if (and $.Site.Data.config.enableToc (not (.Params.disableToc))) }}
 <aside class="mainTOC">
-  <summary>Table of Contents</summary>
-  {{ .TableOfContents }}
+  <summary><p>Table of Contents</p></summary>
+  <p>
+    {{ .TableOfContents }}
+  </p>
 </aside>
 {{end}}
