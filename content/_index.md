@@ -1,13 +1,18 @@
 ---
-title: 🪴 Digital Garden
+title: 🪴 Ronnapat Digital Garden
 ---
 
 ## What's this?
 
-My digital garden
+My Digital Garden! Here I will store my memories that I want to share with you, Sometimes I will write a blog or books review or my notes. Follow my [Twitter](https://twitter.com/ronnapatp) for get latest update about my blog!
 
 ## Start Here
 
-- [Idea](/notes/idea)
-- [Working on](/notes/working-on)
+- [Blog](/blog)
+- [Wishlist](/wishlist)
+- [Pictures](/pictures)
 - [Uses](/uses)
+- Personal
+    - [Projects](/personal/projects)
+    - [Resource](/personal/resource)
+    - [Archives](/personal/archives)
