@@ -54,6 +54,7 @@ title: 🖥 Uses
 - Raycast
 - Lastpass
 - Google Drive
+- Onedrive (Backup photos)
 - Fig
 - Chat app
   - Line - Popular chat app in Thailand
