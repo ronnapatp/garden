@@ -19,19 +19,19 @@ title: 🖥 Uses
 - [MDX](https://marketplace.visualstudio.com/items?itemName=silvenon.mdx)
 - [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
-## Coding Languages
+## Programming Languages
 
 - Javascript
 - Typescript
 - Python 
 - C++
 
-## Not Coding Languages
+## Not Programming Languages
 
 - HTML
 - CSS
 
-## Coding Framework & Others
+## Programming Framework & Others
 
 - Svelte
 - React
@@ -52,9 +52,9 @@ title: 🖥 Uses
 ## Application
 
 - Raycast
-- Lastpass
+- 1password
 - Google Drive
-- Onedrive (Backup photos)
+- Google Photos
 - Fig
 - Chat app
   - Line - Popular chat app in Thailand
@@ -88,7 +88,6 @@ title: 🖥 Uses
 
 ## Previously used
 
-- Google Chrome : Not good as Microsoft edge
 - Oppo phone : I bought new phone
 - Yahoo mail : I use gmail instead
 - Alfred : I use Raycast instead
